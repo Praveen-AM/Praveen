@@ -1,6 +1,7 @@
 # Praveen
 Hello, I'm Praveen A M
 
+Welcome to my personal GitHub repository!
 A passionate Computer Science Engineering student from Muthayammal Engineering College (2025 batch), aiming to build impactful software solutions using Java, Python, and web technologies.
 I'm currently exploring AI, automation, and full-stack development.
 
